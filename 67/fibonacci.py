@@ -8,11 +8,4 @@ def fib(n):
     return 1
   return fib(n-1) + fib(n-2)
 
-counter = 1
-print(fib(1))
-while True:
-  num = fib(counter)
-  if len(str(num)) == 1000:
-    print(counter)
-    break
-  counter += 1
+print(fib(35))
