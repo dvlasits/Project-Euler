@@ -1,3 +1,3 @@
 # Project-Euler
 
-These are my project euler solution
+I have uploaded some of the more interesting project euler solutions to github
